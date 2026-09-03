@@ -1,0 +1,9 @@
+chatgpt.com
+z.ai
+chat.qwen.ai
+claude.ai
+perplexity.ai
+gemini.google.com
+copilot.microsoft.com
+chat.deepseek.com
+chat.mistral.ai
