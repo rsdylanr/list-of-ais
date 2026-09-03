@@ -7,3 +7,8 @@ gemini.google.com
 copilot.microsoft.com
 chat.deepseek.com
 chat.mistral.ai
+kimi.ai
+z.ai
+deep.ai
+grok.com
+brave.ai
